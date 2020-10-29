@@ -12,9 +12,9 @@
 
 ## cara imstal IDE Spyder di linux 
 1. pertama buka **software manager**
-2. ![instal 01](/gambar/instal 01.png)
+2. ![instal01.png](/gambar/instal01.png)
 3. kemudian cari **IDE Spyder** 
-4. ![instal 02](/gambar/instal 02.png)
+4. ![instal02.png](/gambar/instal02.png)
 5. kemudian instal "tunggu hingga beres"
 
 
