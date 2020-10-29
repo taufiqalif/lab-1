@@ -21,19 +21,32 @@
 ## langkah membuat biodata dengan python
 1. buka Spyder yang tadi udah di instal
 2. maka akan tampil sebagai berikut
+
 ![01.png](/gambar/01.png)
+
 3. kemudian **save as** di folder yang kamu suka.
+
 ![02.png](/gambar/02.png)
-    jangan lupa untuk penamaan **"nama file.py"**
+    
+jangan lupa untuk penamaan **"nama file.py"**
+
 4. kemudian tulis kan code sebagai berikut
+
 ![04.png](/gambar/04.png) 
-    untuk output ketik `print()`
+
+untuk output ketik `print()`
+
 ![05.png](/gambar/05.png)
+
 5. kemudian klik `RUN atau bisa klik f5`
     maka akan seperti gambar berikut
+
 ![06.png](/gambar/06.png)
+
 6. masukan identitas user klik enter
+
 ![07.png](/gambar/07.png)
+
 7. selamat biodata sudah berjalan.
 
 # keterangan
