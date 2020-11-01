@@ -10,7 +10,7 @@
     `python 3.8.0`
     python telah di instal pada sistem linux/ubuntu anda.
 
-## cara imstal IDE Spyder di linux 
+## cara instal IDE Spyder di linux 
 1. pertama buka **software manager**
  ![instal01.png](/gambar/instal01.png)
 2. kemudian cari **IDE Spyder** 
